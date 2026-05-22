@@ -1,0 +1,20 @@
+# Raw dataset — too large for GitHub (90MB+)
+online_retail_II.xlsx
+online_retail_II.csv
+
+# Generated files — reproducible by running the pipeline
+retail_sales.db
+pareto_output.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# macOS
+.DS_Store
+synthetic_sales_data_400k.csv
+~$*.xlsx
+~$*.xls
+*.db
